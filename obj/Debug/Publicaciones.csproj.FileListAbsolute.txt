@@ -1,0 +1,5 @@
+C:\Users\mvallejo\Desktop\Visual Studio Projects\Publicaciones\Publicaciones\bin\Debug\Publicaciones.dll
+C:\Users\mvallejo\Desktop\Visual Studio Projects\Publicaciones\Publicaciones\bin\Debug\Publicaciones.pdb
+C:\Users\mvallejo\Desktop\Visual Studio Projects\Publicaciones\Publicaciones\obj\Debug\Publicaciones.csprojResolveAssemblyReference.cache
+C:\Users\mvallejo\Desktop\Visual Studio Projects\Publicaciones\Publicaciones\obj\Debug\Publicaciones.dll
+C:\Users\mvallejo\Desktop\Visual Studio Projects\Publicaciones\Publicaciones\obj\Debug\Publicaciones.pdb
